@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.1.12",
+    "assert": "^2.0.0",
     "ganache": "^7.8.0",
     "mocha": "^10.2.0",
     "solc": "^0.4.17",
